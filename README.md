@@ -1,3 +1,3 @@
 # hello-world
 
-Hi everyone
+Hi everyone!
